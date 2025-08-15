@@ -6,8 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
+<<<<<<< HEAD
         <module name="POOG1" />
       </profile>
     </annotationProcessing>
+=======
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="POOG1" target="17" />
+    </bytecodeTargetLevel>
+>>>>>>> ebe9f43ee5930ab691f69272846a85a94a977787
+=======
+        <module name="POOG1" />
+      </profile>
+    </annotationProcessing>
+>>>>>>> 35e1a66ba2423da4380e98fc2cddb518320355eb
   </component>
 </project>
