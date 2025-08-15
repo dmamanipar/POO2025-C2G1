@@ -9,6 +9,9 @@
     </option>
   </component>
 <<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+=======
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
 =======
 <<<<<<< HEAD
@@ -17,4 +20,5 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
 >>>>>>> 07720b7b6a24271a7dba939e37bcc81be05c1362
 >>>>>>> 1a15a6a153af74d01e3cc59c1954340efa965391
+>>>>>>> 6a76a7e6d7034533280102fe5680126795bbc776
 </project>
